@@ -1,0 +1,5 @@
+top clicked stations:
+https://de1.api.radio-browser.info/json/stations/search?countrycode=US&hidebroken=true&order=clickcount&reverse=true
+
+top voted stations:
+https://at1.api.radio-browser.info/json/stations/search?limit=200&tagList=music&hidebroken=true&order=votes&reverse=true
